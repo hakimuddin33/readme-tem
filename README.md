@@ -97,11 +97,28 @@ http://www.githun.com/hakimuddin33
 
 ##  markdown link sytax
 
-[Study with hakim](http://www.githun.com/hakimuddin33
-)
+[Study with hakim](http://www.githun.com/hakimuddin33)
+
+
+## Image sytax
+
+<!-- ![profile](./image/hakim.jpg) -->
+<img src="./image/hakim.jpg" width="300" title="profile image">
+
+ 
+
+😊
+
+<br>
 
 
 
+
+## table
+| Name | Email |
+| ----- | ----- | 
+| HAkim Uddin | hakimuddin5707768@gmail.com |
+| Hasan | hasan4764@gmail.com |
 
 
 
